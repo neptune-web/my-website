@@ -2,7 +2,7 @@
 
 ## My Portfolio!
 
-<h2 align="center">
+<h2>
   <img src="https://github.com/mayankagarwal09/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
   <br>
 </h2>
